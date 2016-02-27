@@ -1,5 +1,6 @@
 import datetime
 import array
+#this a a test to see whether github works.
 
 
 myDate = datetime.date.today()
